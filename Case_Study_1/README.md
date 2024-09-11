@@ -16,11 +16,14 @@ Each of the following case study questions can be answered using a single SQL st
 ------------
 
 1. The order of images will be the Query, followed by the picture of the query results.<br>
-   My solution was to group the customers id as well as the product id so that it would join based on what they ate.
-   <div align=center>
-        <img src='../assets/Case_Study_1/Query.png'/>
-   </div>
-   
+   My solution was to group the customers id as well as the product id so that it would join based on what they ate.<br><br>
+   ![Query](../assets/Case_Study_1/Query.png)
    ![Answer](../assets/Case_Study_1/Query_Results.png)
 
-2. 
+2. Solutions was just looking at the Distinct dates attended grouped by the customer.<br><br>
+   ![Query](../assets/Case_Study_1/Query2.png)
+   ![Answer](../assets/Case_Study_1/Query_Results2.png)
+
+3. Using Min we can find the smallest date.
+   ![Query](../assets/Case_Study_1/Query3.png)
+   ![Answer](../assets/Case_Study_1/Query_Results3.png)
