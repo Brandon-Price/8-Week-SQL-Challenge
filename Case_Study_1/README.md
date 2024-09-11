@@ -24,6 +24,10 @@ Each of the following case study questions can be answered using a single SQL st
    ![Query](../assets/Case_Study_1/Query2.png)
    ![Answer](../assets/Case_Study_1/Query_Results2.png)
 
-3. Using Min we can find the smallest date.
+3. Using Min we can find the smallest date. <br><br>
    ![Query](../assets/Case_Study_1/Query3.png)
    ![Answer](../assets/Case_Study_1/Query_Results3.png)
+
+4. Counting the number of times a product_id is in the db then ordering it in DESC order. <br><br>
+   ![Query](../assets/Case_Study_1/Query4.png)
+   ![Answer](../assets/Case_Study_1/Query_Results4.png)
