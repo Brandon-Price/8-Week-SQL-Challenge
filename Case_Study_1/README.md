@@ -15,3 +15,12 @@ Each of the following case study questions can be answered using a single SQL st
 
 ------------
 
+1. The order of images will be the Query, followed by the picture of the query results.<br>
+   My solution was to group the customers id as well as the product id so that it would join based on what they ate.
+   <div align=center>
+        <img src='../assets/Case_Study_1/Query.png'/>
+   </div>
+   
+   ![Answer](../assets/Case_Study_1/Query_Results.png)
+
+2. 
